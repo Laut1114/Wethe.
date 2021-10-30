@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App Clima</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_city1">Buenos Aires</string>
+    <string name="menu_city2">Santiago</string>
+    <string name="nombre_toolbar">wethe.</string>
+    <string name="text_home">Ciudad de Córdoba</string>
+    <string name="temperatura">-30 °C</string>
+    <string name="fecha">Sábado 24 de Abril</string>
+    <string name="hora">12:00</string>
+    <string name="hora2">16:00</string>
+    <string name="hora3">19:00</string>
+    <string name="hora4">22:00</string>
+    <string name="cielo">Parcialmente Nublado</string>
+    <string name="sensacionTermica">Sens. Térmica -55 °C</string>
+    <string name="temperatura_card1">-55 °C</string>
+    <string name="temperatura_card2">-34 °C</string>
+    <string name="temperatura_card3">-10 °C</string>
+</resources>
