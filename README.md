@@ -2,7 +2,7 @@
 Aplicación Android simple del clima estatica sin api conectada
 
 ### Screenshot
-<img alt="captura1" hspace="30" height="220" src="app/main/assets/screenshot_20220808_155124.png" width="400"/><img alt="captura2" hspace="30" height="220" src="app/src/main/assets/screenshot_20220808_155140.png" width="400"/>
+<img alt="captura1" hspace="30" height="220" src="/app/src/main/assets/fonts/screenshot_20220808_155124.png" width="400"/><img alt="captura2" hspace="30" height="220" src="/app/src/main/assets/fonts/screenshot_20220808_155140.png" width="400"/>
 
 
 ### Hecha con:
